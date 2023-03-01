@@ -1,2 +1,2 @@
-# it666
-git study
+# 教程
+- study
